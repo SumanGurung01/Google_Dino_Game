@@ -60,11 +60,6 @@
     animation: obstacle 3s infinite;
 }
 
-
-
-
-
-
 /* Animations */
 @keyframes jump{
     0%{bottom: 0%;}
